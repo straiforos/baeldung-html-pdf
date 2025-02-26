@@ -1,5 +1,12 @@
 ## PDF
 
+# How to run FlyingSaucer HTML to PDF example
+
+```bash
+mvn clean compile exec:java -Dexec.mainClass="com.baeldung.pdf.openpdf.Html2PdfUsingFlyingSaucer"
+```
+
+
 This module contains articles about PDF files.
 
 ### Relevant Articles:
